@@ -1,6 +1,7 @@
 package main
 
 import "testing"
-// foob
+
+// fooba
 func TestMain(t *testing.T) {
 }
