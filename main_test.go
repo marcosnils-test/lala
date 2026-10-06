@@ -2,6 +2,6 @@ package main
 
 import "testing"
 
-// foobar
+// foobarr
 func TestMain(t *testing.T) {
 }
